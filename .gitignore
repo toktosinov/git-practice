@@ -1,0 +1,6 @@
+*.log
+!error.log
+/TODO
+build/
+doc/*.txt
+doc/**/*.pdf
